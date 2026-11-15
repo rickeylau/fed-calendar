@@ -1,0 +1,490 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fed Calendar//EN
+X-WR-CALDESC:Federal Reserve Board speeches and monetary policy events
+X-WR-CALNAME:Fed Calendar
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Governor Christopher J. Waller
+DTSTART:20261001T140000Z
+DTEND:20261001T141500Z
+DTSTAMP:20261115T090156Z
+UID:aea678c5a84a513af01a71f34c080de2e1aaea6c274dffe89c51e8a39c541229@fed-c
+ alendar
+DESCRIPTION:Federal Reserve Economic Data\nAt FRED Con: Navigating Trust\,
+  AI & Storytelling in a World of Data\, St. Louis\, Mo.\n\nSource: https:/
+ /www.federalreserve.gov/newsevents/2026-october.htm\nEnd time is a 15-minu
+ te display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Vice Chair Philip N. Jefferson
+DTSTART:20261001T173000Z
+DTEND:20261001T174500Z
+DTSTAMP:20261115T090156Z
+UID:6f376111ca673e48bc3dbf8da1591a4750837595fb39ef4a047487192c6380f4@fed-c
+ alendar
+DESCRIPTION:U.S. Economy and Monetary Policy\nAt a Talk and Q&A with Feder
+ al Reserve Board Vice Chair Philip N. Jefferson\, Charlottesville\, Va.\n
+ \nSource: https://www.federalreserve.gov/newsevents/2026-october.htm\nEnd 
+ time is a 15-minute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Vice Chair for Supervision Michelle W. Bowman
+DTSTART:20261001T190000Z
+DTEND:20261001T191500Z
+DTSTAMP:20261115T090156Z
+UID:e6ad959c4c586825c103818afa96ce2feb7b98110296d241529c3950d67423c1@fed-c
+ alendar
+DESCRIPTION:Modernizing Financial Regulation: Initial Observations from eS
+ LR\nAt the Atlantic Councilâs Conversation with Michelle W. Bowman\, 
+ Washington\, D.C.\n\nSource: https://www.federalreserve.gov/newsevents/202
+ 6-october.htm\nEnd time is a 15-minute display placeholder\, not the offic
+ ial duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Discussion - Governor Lisa D. Cook
+DTSTART:20261001T193000Z
+DTEND:20261001T194500Z
+DTSTAMP:20261115T090156Z
+UID:78abc81b30e84071d84552b37c94a6ccc33d8b2264c190fa3e5f82003115cf48@fed-c
+ alendar
+DESCRIPTION:Global Central Banking\nAt the Central Banking Seminar (Virtua
+ l)\n\nSource: https://www.federalreserve.gov/newsevents/2026-october.htm\n
+ End time is a 15-minute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Vice Chair for Supervision Michelle W. Bowman
+DTSTART:20261006T144500Z
+DTEND:20261006T150000Z
+DTSTAMP:20261115T090156Z
+UID:66c0fdce314886463c8bbbc273e6b405fee6931276b15e0716d2dcf7fe00e8da@fed-c
+ alendar
+DESCRIPTION:Modernizing Regulation and Supervision\nAt the 2026 Community 
+ Banking Research Conference\, St. Louis\, Missouri\n\nSource: https://www.
+ federalreserve.gov/newsevents/2026-october.htm\nEnd time is a 15-minute di
+ splay placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOMC Minutes
+DTSTART:20261007T180000Z
+DTEND:20261007T181500Z
+DTSTAMP:20261115T090156Z
+UID:c05592a18ebbec9355eb92dcc588f8db07f4164e8a4499bb529eb5a0757023c9@fed-c
+ alendar
+DESCRIPTION:Meeting of September 15-16\n\nSource: https://www.federalreser
+ ve.gov/newsevents/2026-october.htm\nEnd time is a 15-minute display placeh
+ older\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Governor Christopher J. Waller
+DTSTART:20261008T083000Z
+DTEND:20261008T084500Z
+DTSTAMP:20261115T090156Z
+UID:ead60c9a8dd81a744e6ccd3c8a089cb1e23321e65f72009a07398a69599ec623@fed-c
+ alendar
+DESCRIPTION:Economic Outlook\nAt the Central Bank of the Republic of Türk
+ iye (TCMB) Ä°stanbul Economic Forum\, Ümraniye/Ä°stanbul\, Türkiye\n
+ \nSource: https://www.federalreserve.gov/newsevents/2026-october.htm\nEnd 
+ time is a 15-minute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Discussion - Governor Christopher J. Waller
+DTSTART:20261013T074500Z
+DTEND:20261013T080000Z
+DTSTAMP:20261115T090156Z
+UID:b77f34ce58ac6e55e6d1c8d63b725b21e8ba7e986cd155d04a08056dd674eb3e@fed-c
+ alendar
+DESCRIPTION:AI\nAt the Bloomberg New Economy Forum 2026\, New Delhi\, Indi
+ a\n\nSource: https://www.federalreserve.gov/newsevents/2026-october.htm\nE
+ nd time is a 15-minute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Discussion - Vice Chair for Supervision Michelle W. Bowman
+DTSTART:20261014T094000Z
+DTEND:20261014T095500Z
+DTSTAMP:20261115T090156Z
+UID:e015631422b45935c07c7effa210de2b0879ead2a21f351dc9fb17a7aebca0e6@fed-c
+ alendar
+DESCRIPTION:Supervision and Regulation\nAt the 2026 IIF Annual Membership 
+ Summit\, Bangkok\, Thailand\n\nSource: https://www.federalreserve.gov/news
+ events/2026-october.htm\nEnd time is a 15-minute display placeholder\, not
+  the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beige Book
+DTSTART:20261014T180000Z
+DTEND:20261014T181500Z
+DTSTAMP:20261115T090156Z
+UID:1099decf48ef6e8e09027f5d38441faeba35945612fef919a4f9f76988ac197a@fed-c
+ alendar
+DESCRIPTION:\n\nSource: https://www.federalreserve.gov/newsevents/2026-oct
+ ober.htm\nEnd time is a 15-minute display placeholder\, not the official d
+ uration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Vice Chair for Supervision Michelle W. Bowman
+DTSTART:20261015T025500Z
+DTEND:20261015T031000Z
+DTSTAMP:20261115T090156Z
+UID:056ae907f99ee5dacdc9a5c9ca634d586c82234ac791f4a68c2b992628f095c7@fed-c
+ alendar
+DESCRIPTION:Supervision and Regulation\nAt the Bangkok Economic Festival 2
+ 026\n\nSource: https://www.federalreserve.gov/newsevents/2026-october.htm
+ \nEnd time is a 15-minute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Discussion - Chairman Kevin Warsh
+DTSTART:20261016T033000Z
+DTEND:20261016T034500Z
+DTSTAMP:20261115T090156Z
+UID:5270a56a79c171229e443a93d9ea65f5b542c6711a134e4ec40a78df106041b6@fed-c
+ alendar
+DESCRIPTION:Conversation between IMF Managing Director Georgieva and Feder
+ al Reserve Chairman Warsh\nAt the Fireside Chat with International Monetar
+ y Fund (IMF) Managing Director Kristalina Georgieva\, Bangkok\, Thailand\n
+ \nSource: https://www.federalreserve.gov/newsevents/2026-october.htm\nEnd 
+ time is a 15-minute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOMC Rate Decision (Meeting)
+DTSTART:20261028T180000Z
+DTEND:20261028T181500Z
+DTSTAMP:20261115T090156Z
+UID:88fdbe953998198665fef4955f39792d7f6529aad3fb4bb1098717bb609b6df4@fed-c
+ alendar
+DESCRIPTION:Two-day meeting\, October 27 - 28\nPress Conference\n\nSource:
+  https://www.federalreserve.gov/newsevents/2026-october.htm\nEnd time is a
+  15-minute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOMC Press Conference
+DTSTART:20261028T183000Z
+DTEND:20261028T184500Z
+DTSTAMP:20261115T090156Z
+UID:a40466a76cc03f7483cd0baa82bfc3312dff11c5daf81007c760049c691c011f@fed-c
+ alendar
+DESCRIPTION:\n\nSource: https://www.federalreserve.gov/newsevents/2026-oct
+ ober.htm\nEnd time is a 15-minute display placeholder\, not the official d
+ uration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-october.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Discussion - Vice Chair for Supervision Michelle W. Bowman
+DTSTART:20261106T171500Z
+DTEND:20261106T173000Z
+DTSTAMP:20261115T090156Z
+UID:30b8b93def57aa4cdf7fa9c9391ff0cf28b2c4cb16e61eca82840f96d9de053d@fed-c
+ alendar
+DESCRIPTION:Supervision and Regulation\nAt the University of Mississippi B
+ anking and Finance Symposium\, Oxford\, Miss.\n\nSource: https://www.feder
+ alreserve.gov/newsevents/2026-november.htm\nEnd time is a 15-minute displa
+ y placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Discussion - Vice Chair for Supervision Michelle W. Bowman
+DTSTART:20261109T134000Z
+DTEND:20261109T135500Z
+DTSTAMP:20261115T090156Z
+UID:15935e93ae9356321958e81144e9a9ae0e8f99a8401611d53334d1344c251d62@fed-c
+ alendar
+DESCRIPTION:Community Banking\nAt the Mutual Board Summit Conference\, Bos
+ ton\, Mass.\n\nSource: https://www.federalreserve.gov/newsevents/2026-nove
+ mber.htm\nEnd time is a 15-minute display placeholder\, not the official d
+ uration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Governor Christopher J. Waller
+DTSTART:20261110T090000Z
+DTEND:20261110T091500Z
+DTSTAMP:20261115T090156Z
+UID:157523636949a68d0ddfa5c54b46ae57ebe56dab2dd62535b450899a04d8b295@fed-c
+ alendar
+DESCRIPTION:Economic Outlook\nAt The Bank of England and its Watchers Conf
+ erence 2026\, London\, United Kingdom\n\nSource: https://www.federalreserv
+ e.gov/newsevents/2026-november.htm\nEnd time is a 15-minute display placeh
+ older\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Vice Chair for Supervision Michelle W. Bowman
+DTSTART:20261110T203000Z
+DTEND:20261110T204500Z
+DTSTAMP:20261115T090156Z
+UID:d2a0d6c9b55747e56862aa7c2162caff41d173f59fe4170a03537cc34c0db7e7@fed-c
+ alendar
+DESCRIPTION:Economic Outlook\nAt the C. Peter McColough Series on Internat
+ ional Economics with Michelle Bowman\, Washington\, D.C.\n\nSource: https:
+ //www.federalreserve.gov/newsevents/2026-november.htm\nEnd time is a 15-mi
+ nute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Vice Chair for Supervision Michelle W. Bowman
+DTSTART:20261110T233000Z
+DTEND:20261110T234500Z
+DTSTAMP:20261115T090156Z
+UID:0fb139819bd8c5c8a82b471d6c005d2f1bf63eb62b468ff1a73306946889c3a0@fed-c
+ alendar
+DESCRIPTION:Economic Outlook\nAt A View from the Federal Reserve Board (vi
+ rtual)\n\nSource: https://www.federalreserve.gov/newsevents/2026-november.
+ htm\nEnd time is a 15-minute display placeholder\, not the official durati
+ on.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Governor Michael S. Barr
+DTSTART:20261112T150000Z
+DTEND:20261112T151500Z
+DTSTAMP:20261115T090156Z
+UID:11a05782246eb360aa154f115d890d66f8120932f18b4e5adc5906ce20e465d8@fed-c
+ alendar
+DESCRIPTION:Artificial Intelligence and Inequality\nAt A Conversation with
+  Michael S. Barr (virtual)\n\nSource: https://www.federalreserve.gov/newse
+ vents/2026-november.htm\nEnd time is a 15-minute display placeholder\, not
+  the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Discussion - Vice Chair for Supervision Michelle W. Bowman
+DTSTART:20261113T155000Z
+DTEND:20261113T160500Z
+DTSTAMP:20261115T090156Z
+UID:a52a4af2d18d91587356e24358c7a3b7d75260ad59451d772414e88dd5122948@fed-c
+ alendar
+DESCRIPTION:Supervision and Regulation\nAt the Connecticut Bankers Associa
+ tion Annual Meeting and Conference 2026 (virtual)\n\nSource: https://www.f
+ ederalreserve.gov/newsevents/2026-november.htm\nEnd time is a 15-minute di
+ splay placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Vice Chair Philip N. Jefferson
+DTSTART:20261114T000000Z
+DTEND:20261114T001500Z
+DTSTAMP:20261115T090156Z
+UID:d0a3dfa597dc35dde9ce24c234e19cab83da20a050117974eff6dca1274f0dfd@fed-c
+ alendar
+DESCRIPTION:New Technology\, Old Questions: Assessing Productivity Puzzles
+  and Their Implications for Macroeconomic Activity\nAt the University of C
+ alifornia San Diego Economics Roundtable\, La Jolla\, Calif.\n\nSource: ht
+ tps://www.federalreserve.gov/newsevents/2026-november.htm\nEnd time is a 1
+ 5-minute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Governor Michael S. Barr
+DTSTART:20261116T100000Z
+DTEND:20261116T101500Z
+DTSTAMP:20261115T090156Z
+UID:9d42ad6ed61b4e16ebe62dd2603206ccfbf1bef61ef82c1292b24285c9991fd3@fed-c
+ alendar
+DESCRIPTION:Artificial Intelligence and Financial Stability\nAt the 7th AC
+ M International Conference on AI in Finance\, Milan\, Italy\n\nSource: htt
+ ps://www.federalreserve.gov/newsevents/2026-november.htm\nEnd time is a 15
+ -minute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Chairman Kevin Warsh
+DTSTART:20261116T170000Z
+DTEND:20261116T171500Z
+DTSTAMP:20261115T090156Z
+UID:4f24937b093ed67d0992036d6bf36813f0fb9ab8411c453f30477c806c095ac9@fed-c
+ alendar
+DESCRIPTION:Opening Remarks\nAt the Federal Reserveâs Productivity an
+ d Jobs Task Force Conference\, Federal Reserve Bank of San Francisco\, San
+  Francisco\, Calif.\n\nSource: https://www.federalreserve.gov/newsevents/2
+ 026-november.htm\nEnd time is a 15-minute display placeholder\, not the of
+ ficial duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Governor Christopher J. Waller
+DTSTART:20261117T141000Z
+DTEND:20261117T142500Z
+DTSTAMP:20261115T090156Z
+UID:c7cf33dcdc67965857faea8a7f5c9878784aa988ede9c008f5a636702698fb47@fed-c
+ alendar
+DESCRIPTION:Payments\nAt The Clearing House (TCH) Annual Conference\, New 
+ York\, N.Y.\n\nSource: https://www.federalreserve.gov/newsevents/2026-nove
+ mber.htm\nEnd time is a 15-minute display placeholder\, not the official d
+ uration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Governor Michael S. Barr
+DTSTART:20261118T183500Z
+DTEND:20261118T185000Z
+DTSTAMP:20261115T090156Z
+UID:8ba81ca3c52e095a8586195cd37089f7ea185836772615d1a3085f7bfca8bcc9@fed-c
+ alendar
+DESCRIPTION:Community Development Investments\nAt Making Missing Markets: 
+ Catalyzing Capital and Igniting Innovation\, Federal Reserve Bank of New Y
+ ork\, New York\, N.Y.\n\nSource: https://www.federalreserve.gov/newsevents
+ /2026-november.htm\nEnd time is a 15-minute display placeholder\, not the 
+ official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOMC Minutes
+DTSTART:20261118T190000Z
+DTEND:20261118T191500Z
+DTSTAMP:20261115T090156Z
+UID:1f9c9f66c50e4f6cbb90d74efb5766544c601ec1bceb90e36b20b8206f739412@fed-c
+ alendar
+DESCRIPTION:Meeting of October 27-28\n\nSource: https://www.federalreserve
+ .gov/newsevents/2026-november.htm\nEnd time is a 15-minute display placeho
+ lder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Discussion - Vice Chair Philip N. Jefferson
+DTSTART:20261119T142500Z
+DTEND:20261119T144000Z
+DTSTAMP:20261115T090156Z
+UID:ef91f74a80de3648950f47104e1d9c7ea4280551567fe9221729c369f46e0a7e@fed-c
+ alendar
+DESCRIPTION:Economic Shocks\nAt the International Monetary Fund (IMF) and 
+ Central Bank of Brazil conference "A Quarter Century of Inflation Targetin
+ g in Latin America: Progress\, Challenges\, and the Road Ahead" (virtual)
+ \n\nSource: https://www.federalreserve.gov/newsevents/2026-november.htm\nE
+ nd time is a 15-minute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Discussion - Governor Michael S. Barr
+DTSTART:20261119T191500Z
+DTEND:20261119T193000Z
+DTSTAMP:20261115T090156Z
+UID:e840d9417627592fbdc4bb01c6b3d2f699d9c1d30a15ef6823561ab8d44ad6d8@fed-c
+ alendar
+DESCRIPTION:Artificial Intelligence\nAt the FinRegLab 2026 AI Symposium\, 
+ Washington\, D.C.\n\nSource: https://www.federalreserve.gov/newsevents/202
+ 6-november.htm\nEnd time is a 15-minute display placeholder\, not the offi
+ cial duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Governor Christopher J. Waller
+DTSTART:20261120T132500Z
+DTEND:20261120T134000Z
+DTSTAMP:20261115T090156Z
+UID:df1a31a14abcd6bd1281a12e0ae11ade9b06115aaa04e8bf0e03138c362f3452@fed-c
+ alendar
+DESCRIPTION:Welcoming Remarks\nAt the College Fed Challenge Finals\n\nSour
+ ce: https://www.federalreserve.gov/newsevents/2026-november.htm\nEnd time 
+ is a 15-minute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fed Speech - Governor Lisa D. Cook
+DTSTART:20261120T171500Z
+DTEND:20261120T173000Z
+DTSTAMP:20261115T090156Z
+UID:596bef47ebdc3b26f4ba06826c74c8b3b214d4c3f0f265fb340c3d451f56c66c@fed-c
+ alendar
+DESCRIPTION:The U.S. Economy in Global Context\nAt the Annual Conference o
+ f the Central Bank of Chile\, Santiago\, Chile\n\nSource: https://www.fede
+ ralreserve.gov/newsevents/2026-november.htm\nEnd time is a 15-minute displ
+ ay placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beige Book
+DTSTART:20261125T190000Z
+DTEND:20261125T191500Z
+DTSTAMP:20261115T090156Z
+UID:ce8c2d0faffc1908da6272b6d5d7a6b55c9a2541947390a562ddce16753ace2a@fed-c
+ alendar
+DESCRIPTION:\n\nSource: https://www.federalreserve.gov/newsevents/2026-nov
+ ember.htm\nEnd time is a 15-minute display placeholder\, not the official 
+ duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-november.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOMC Rate Decision (Meeting)
+DTSTART:20261209T190000Z
+DTEND:20261209T191500Z
+DTSTAMP:20261115T090156Z
+UID:bae53bcc727ae95b417b8c1a2a8c2b19bca9b7351034ea1c6055e61e75bea86b@fed-c
+ alendar
+DESCRIPTION:Two-day meeting\, December 8 - 9\nPress Conference\n\nSource: 
+ https://www.federalreserve.gov/newsevents/2026-december.htm\nEnd time is a
+  15-minute display placeholder\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-december.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOMC Press Conference
+DTSTART:20261209T193000Z
+DTEND:20261209T194500Z
+DTSTAMP:20261115T090156Z
+UID:19e67f123295f2a91447699345341f096b69f0191157327a774d36e717af7917@fed-c
+ alendar
+DESCRIPTION:\n\nSource: https://www.federalreserve.gov/newsevents/2026-dec
+ ember.htm\nEnd time is a 15-minute display placeholder\, not the official 
+ duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-december.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOMC Minutes
+DTSTART:20261230T190000Z
+DTEND:20261230T191500Z
+DTSTAMP:20261115T090156Z
+UID:aa8b823efe7cf98f380a74110d457b6b59c9c0836c1fc60b01cbc702bb93e734@fed-c
+ alendar
+DESCRIPTION:Meeting of December 8-9\n\nSource: https://www.federalreserve.
+ gov/newsevents/2026-december.htm\nEnd time is a 15-minute display placehol
+ der\, not the official duration.
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/newsevents/2026-december.htm
+END:VEVENT
+END:VCALENDAR
